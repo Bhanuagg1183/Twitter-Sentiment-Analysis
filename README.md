@@ -1,3 +1,4 @@
+<!-- This is project submitted in 3rd year of graduation. -->
 # Twitter Sentiment Analysis
 Twitter sentiment analysis uses natural language processing (NLP) to automatically categorize the emotions or opinions expressed in tweets as positive, negative, or neutral. This process allows businesses and researchers to track public mood, brand reputation, and reactions to events in real time.
 
